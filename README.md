@@ -19,7 +19,7 @@ This project classifies ideal travel destinations in Sabah using data science te
 2. Open the project in RStudio.
 3. Install required R packages:
     ```R
-    install.packages(c("dplyr", "ggplot2", "caret", "randomForest"))
+    install.packages(c("caret", "C50", "randomForest", "dplyr", "ggplot2"))
     ```
 
 ## Usage Guidelines
